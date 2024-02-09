@@ -99,6 +99,7 @@ h2{
 .project-items > img{
     display: flex;
     height: 180px;
+    width: fit-content;
     padding: 0.5rem;
     border: 5px solid  rgb(44, 169, 176);
 }
@@ -106,7 +107,8 @@ h2{
 .project-items > p{
    
     display: flex;
-    width: 350px;
+    width: fit-content;
+    height: fit-content;
     font-weight: bold;
     font-size: 1rem;
     font-family: 'Montserrat', sans-serif;
